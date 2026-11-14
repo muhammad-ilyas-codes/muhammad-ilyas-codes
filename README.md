@@ -1,12 +1,14 @@
 <h1 align="center">Muhammad Ilyas</h1>
 
-<p align="center"><b>WordPress and WooCommerce developer</b><br>Based in Lahore, Pakistan. Working with clients worldwide.</p>
+<p align="center"><b>WordPress and Frontend Developer</b><br>Based in Lahore, Pakistan. Working with clients worldwide.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
@@ -19,7 +21,7 @@
 
 ## About me
 
-I build fast, mobile friendly WordPress websites for local service businesses and growing brands. My goal is simple: a site that loads quickly, looks sharp on every screen, and makes it easy for visitors to call, book, or request a quote.
+I am a WordPress and frontend developer who builds fast, mobile friendly websites for local service businesses and growing brands. My goal is simple: a site that loads quickly, looks sharp on every screen, and makes it easy for visitors to call, book, or request a quote.
 
 I work with WordPress, Elementor, WooCommerce, and PHP, and I write custom HTML, CSS, and JavaScript when a project needs it. I am currently available for freelance projects.
 
@@ -78,7 +80,7 @@ Painting company website with seven service pages, a gallery, and online appoint
 
 ## What I can build for you
 
-Business websites from scratch, redesigns that load faster and look modern, Figma to WordPress builds, WooCommerce stores, speed tuning, and ongoing maintenance.
+Business websites from scratch, responsive frontend work in HTML, CSS, and JavaScript, redesigns that load faster and look modern, Figma to WordPress builds, WooCommerce stores, speed tuning, and ongoing maintenance.
 
 ## Tools I use
 
